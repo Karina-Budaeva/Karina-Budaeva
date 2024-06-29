@@ -24,3 +24,4 @@ I worked as a credit analyst at Sberbank for 9 years. Currently, I'm taking a ca
 - **Email**: [budaevaka17@gmail.com](mailto:budaevaka17@gmail.com)
 - **LinkedIn**: [Karina Budaeva](https://www.linkedin.com/in/karina-budaeva-50a0b0202/)
 - **GitHub**: [Karina Budaeva](https://github.com/Karina-Budaeva)
+- **HH**: [Karina Budaeva](https://hh.ru/resume/a27870f9ff0b758ea40039ed1f66553441674f)
