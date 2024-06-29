@@ -7,7 +7,12 @@ I worked as a credit analyst at Sberbank for 9 years. Currently, I'm taking a ca
 - **Data Analysis**: Experience with large datasets, report creation, and visualization.
 - **Financial Analysis**: In-depth understanding of credit risks, financial statements, and budgeting.
 - **Business Analysis**: Business process modeling, requirements gathering and documentation, solution development.
-- **Technologies**: SQL, Excel, Power BI.
+- **Technologies**: SQL, Excel, Power BI, Python (beginner level).
+
+### Experience
+- Extensive experience in **financial analysis**, including risk assessment, financial reporting, and budgeting.
+- Skilled in **describing business models** and documenting business processes.
+- Proficient in **business process analysis** and optimization, focusing on enhancing efficiency and effectiveness.
 
 ### Projects
 1. **Data Visualization with Power BI**
