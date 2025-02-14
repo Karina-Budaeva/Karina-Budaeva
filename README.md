@@ -1,58 +1,64 @@
 ## Hi there 👋
 
-# Карина Будаева — Портфолио аналитика данных
+# Karina Budaeva — Data Analyst Portfolio
 
-Добро пожаловать в мой GitHub! Здесь вы найдете проекты и кейсы, демонстрирующие мои навыки аналитики данных, визуализации, A/B тестирования и бизнес-анализа. Этот репозиторий создан, чтобы показать мои достижения и подход к решению аналитических задач.
+Welcome to my GitHub! Here you will find projects and case studies demonstrating my skills in data analysis, visualization, A/B testing, and business analytics. This repository is designed to showcase my achievements and approach to solving analytical challenges.
 
-## 📜 О себе
+## 📜 About Me
 
-Меня зовут Карина Будаева. Я аналитик данных с 8,5-летним опытом работы в крупном банке. Моя специализация включает:
-- Анализ данных и финансовое моделирование.
-- Визуализацию данных для принятия решений.
-- Разработку стратегий минимизации рисков и оптимизации бизнес-процессов.
+My name is Karina Budaeva, and I am a Data Analyst with 8.5 years of experience working at a major bank. My expertise includes:
+- Data analysis and financial modeling.
+- Data visualization for decision-making.
+- Developing strategies to minimize risks and optimize business processes.
 
-В настоящее время я углубляю знания в продуктовой аналитике, A/B тестировании, юнит-экономике, Python и машинном обучении.
+Currently, I am deepening my knowledge in product analytics, A/B testing, unit economics, Python, and machine learning.
 
-## 🏆 Достижения
-- **Финансирование строительства малого морского танкера** на 5 млрд рублей с минимизацией рисков и привлечением дополнительного обеспечения на 420 млн рублей.
-- Разработка новой логистики поставок для **урегулирования банковской гарантии** на 110 млн рублей, что позволило пролонгировать контракт и минимизировать риски.
-- **Оптимизация валютных кредитов** для экспортных контрактов в Индии и Китае, снижение валютных рисков и сокращение задолженностей на 20%.
+## 🏆 Achievements
+- **Financed the construction of a small oil tanker** worth 5 billion RUB by minimizing risks and securing additional collateral worth 420 million RUB.
+- Developed new supply logistics for **settling a bank guarantee** of 110 million RUB, which allowed for contract renewal and risk minimization.
+- **Optimized foreign currency loans** for export contracts in India and China, reducing currency risks and cutting debts by 20%.
 
-## 🛠️ Навыки и инструменты
-- **Анализ данных**: MS Excel, Google Sheets, SQL, Python (Pandas, NumPy, Requests, Matplotlib).
-- **Визуализация данных**: Power BI, Tableau, Zoho Analytics, Miro.
-- **Бизнес-анализ**: Lean Canvas, A/B тестирование, юнит-экономика.
-- **Инструменты работы с данными**: API, обработка больших объемов данных, статистический анализ.  
+## 🛠️ Skills and Tools
+- **Data Analysis**: MS Excel, Google Sheets, SQL, Python (Pandas, NumPy, Requests, Matplotlib).
+- **Data Visualization**: Power BI, Tableau, Zoho Analytics, Miro.
+- **Business Analysis**: Lean Canvas, A/B testing, unit economics.
+- **Data Tools**: API integration, large dataset processing, statistical analysis.
 
-## 📂 Репозитории
+## 📂 Repositories
 
 ### 1. [Data-Analytics-Portfolio](https://github.com/Karina-Budaeva/Data-Analytics-Portfolio)  
-**Портфолио аналитика данных: A/B тесты, бизнес-аналитика, визуализация данных (Power BI, Miro, Excel), Lean Canvas и стратегический анализ.**  
-- A/B тестирование структуры скидок в онлайн-магазине.
-- Lean Canvas для стартапов (например, аренда электрических самокатов в Пекине).
-- Визуализация ключевых данных клиентов и продаж.  
+**A Data Analyst portfolio featuring A/B testing, business analysis, data visualization (Power BI, Miro, Excel), Lean Canvas, and strategic analysis.**  
+- A/B testing for discount structures in an online store.
+- Lean Canvas for startups (e.g., electric scooter rentals in Beijing).
+- Visualization of key client and sales data.  
 
 ---
 
 ### 2. [Stock-Analysis-Project](https://github.com/Karina-Budaeva/Stock-Analysis-Project)  
-**Анализ цен акций компаний NVIDIA (NVDA), Tesla (TSLA), Intel (INTC), Microsoft (MSFT) и IBM за период с 29 января 2024 года по 29 января 2025 года.**  
-- Написано на Python.  
-- Использованы библиотеки yfinance, Pandas, Matplotlib и Seaborn .  
-- Задачи: загрузка данных, анализ динамики акций, визуализация результатов.  
+**Stock price analysis for NVIDIA (NVDA), Tesla (TSLA), Intel (INTC), Microsoft (MSFT), and IBM over the period from January 29, 2024, to January 29, 2025.**  
+- Written in Python.  
+- Utilized libraries: yfinance, Pandas, Matplotlib, and Seaborn.  
+- Tasks: data loading, stock trend analysis, and visualization of results.  
 
 ---
 
 ### 3. [Crypto-Market-Analysis](https://github.com/Karina-Budaeva/Crypto-Market-Analysis)  
-**Анализ топ-5 криптовалют с использованием данных API CoinGecko.**  
-- Задачи: загрузка данных через API, их обработка и визуализация текущих цен и рыночной капитализации.  
-- Использованы библиотеки Python: Requests, Pandas, Tabulate, Seaborn и Matplotlib.  
+**Analysis of the top 5 cryptocurrencies using CoinGecko API data.**  
+- Tasks: data loading via API, processing, and visualization of current prices and market capitalization.  
+- Python libraries used: Requests, Pandas, Tabulate, Seaborn, and Matplotlib.
 
+---
 
-## 📫 Контакты
+### 4. [Data-Science-Salaries-Analysis](https://github.com/Karina-Budaeva/Data-Science-Salaries-Analysis)  
+**Comprehensive analysis of salaries for Data Science professionals over the years 2020–2023.**  
+- Tasks: dataset loading, removing duplicates, data analysis, and visualization.  
+- Tools used: Python (Pandas, NumPy, Matplotlib, Seaborn).
+
+## 📫 Contact
 - 📧 Email: budaevaka17@gmail.com  
 - 💬 Telegram: [@budaevakarina](https://t.me/budaevakarina)  
-- 📄 [HH.ru резюме](https://goo.su/4cl9i)
-- 🌐 LinkedIn: [Карина Будаева](https://www.linkedin.com/in/karina-budaeva-50a0b0202/)  
+- 📄 [HH.ru Resume](https://goo.su/4cl9i)  
+- 🌐 LinkedIn: [Karina Budaeva](https://www.linkedin.com/in/karina-budaeva-50a0b0202/)  
 
-## Лицензия
-Этот репозиторий является моим личным портфолио и предназначен только для демонстрации моих профессиональных навыков.
+## License
+This repository is my personal portfolio and is intended solely to demonstrate my professional skills.
